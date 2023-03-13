@@ -1,0 +1,8 @@
+
+.Calculator > div > div > div > button {
+    border-radius: 0;
+    font-size: 20px;
+}
+.Calculator > div > div > div > button > svg {
+    font-size: 20px;
+}
