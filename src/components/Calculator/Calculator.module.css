@@ -1,5 +1,7 @@
 
 .Calculator > div > div > div > button {
+    width: 80px;
+    height: 80px;
     border-radius: 0;
     font-size: 20px;
 }
